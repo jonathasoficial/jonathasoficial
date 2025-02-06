@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathasoficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathasoficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=codeSTACKr&hide_border=true&order=2" height="154" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jonathasoficial&locale=en&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=6&order=3" height="150" alt="streak graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathasoficial&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false" height="286" alt="activity-graph graph"  />
 </div>
 
